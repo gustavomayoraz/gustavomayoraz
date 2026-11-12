@@ -34,6 +34,9 @@ App de escritorio en Python/Tkinter para bajar álbumes de YouTube.
 ### 🖱️ [mouse-griffin-m607w](https://github.com/gustavomayoraz/mouse-griffin-m607w)
 Software personal simple y funcional.
 
+### 🎛️ [NEXUS_DJ](https://github.com/gustavomayoraz/NEXUS_DJ)
+
+Reproductor-mezclador DJ inteligente que fusiona los temas solo: analiza BPM, tonalidad y energía, y arma mezclas con relevo de graves, voces y estructura (Python, PySide6, librosa). Instalador para Windows en la sección de Releases.
 ---
 
 ## 📫 Contacto
